@@ -1,0 +1,5 @@
+touch: to create a file 
+git clone : to bring you remote repo to your local machine
+git add : to add a file to stage repo
+git commit : to make comments to your code
+git push : to push your changes to remote repo
